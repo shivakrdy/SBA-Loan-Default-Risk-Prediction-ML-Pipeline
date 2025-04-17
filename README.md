@@ -69,7 +69,7 @@ Loan defaults can impact small businesses and financial institutions significant
 
 ---
 
-## 🚀 Notebooks
+## Notebooks
 
 - 📘 Phase 1:
   - [`Phase_1_Model Training.ipynb`](./Phase%201/notebook/Phase_1_Model%20Training.ipynb)
