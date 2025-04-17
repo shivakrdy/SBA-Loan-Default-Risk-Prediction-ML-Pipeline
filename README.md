@@ -34,13 +34,13 @@ SBA Loan Default Risk Prediction/
 
 ---
 
-## 🧠 Objective
+## Objective
 
 Build machine learning models that predict the likelihood of SBA loan defaults, and evaluate their performance to extract actionable insights for financial decision-making.
 
 ---
 
-## 🧪 Methodology
+## Methodology
 
 Both Phase 1 and Phase 2 follow a structured machine learning workflow:
 
@@ -54,7 +54,7 @@ Both Phase 1 and Phase 2 follow a structured machine learning workflow:
 
 ---
 
-## 📊 Feature Engineering Techniques
+## Feature Engineering Techniques
 
 - Weight-of-Evidence (WOE) encoding
 - One-hot encoding (OHE)
@@ -63,7 +63,7 @@ Both Phase 1 and Phase 2 follow a structured machine learning workflow:
 
 ---
 
-## 🧾 Business Context
+## Business Context
 
 Loan defaults can impact small businesses and financial institutions significantly. Predicting them early enables risk mitigation and better lending decisions. This project aims to develop predictive models using machine learning to flag high-risk SBA loan applications.
 
@@ -81,7 +81,7 @@ Loan defaults can impact small businesses and financial institutions significant
 
 ---
 
-## 📌 Highlights
+## Highlights
 
 | Metric              | Phase 1       | Phase 2       |
 |---------------------|----------------|----------------|
@@ -92,7 +92,7 @@ Loan defaults can impact small businesses and financial institutions significant
 
 ---
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 - Python 3.8+
 - Jupyter Notebook
@@ -127,7 +127,7 @@ GitHub: [@shivakrdy](https://github.com/shivakrdy)
 
 ---
 
-## 📈 Future Improvements
+## Future Improvements
 
 - SHAP/LIME for model interpretability
 - Streamlit-based dashboard for business users
