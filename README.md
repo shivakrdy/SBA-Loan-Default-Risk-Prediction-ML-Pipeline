@@ -20,6 +20,7 @@ SBA Loan Default Risk Prediction/
 │   └── artifacts/
 │       ├── LogisticRegressionModel.pkl
 │       ├── one_hot_encoder.pkl
+│       ├── woe_encoder.pkl
 │       └── Shiva Kumar Reddy_Koppula_sxk230064_Project_1_Scoring Function.py
 │
 ├── Phase 2/
